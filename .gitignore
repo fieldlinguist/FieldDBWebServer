@@ -21,7 +21,7 @@ proguard.cfg
 
 node_modules
 gen
-dist
+dist/server-build/**/*.test.js
 .tmp
 
 # Node #
