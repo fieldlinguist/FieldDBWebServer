@@ -1,1 +1,0 @@
-export const LOADED_SEARCH_RESULTS = Symbol('LOADED_SEARCH_RESULTS')
